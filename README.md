@@ -1,4 +1,4 @@
-# towerofhanoi
+# Tower of Hanoi - The game
 Tower of Hanoi game, using Java and JavaFX for GUI
 
 
