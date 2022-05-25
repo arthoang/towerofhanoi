@@ -9,15 +9,25 @@ For H2 Database configuration, please use the H2-*.jar from project folder /Towe
 
 Welcome to H2 Shell
 Exit with Ctrl+C
+
 [Enter]   jdbc:h2:mem:2
+
 URL       jdbc:h2:./path/to/database
+
 [Enter]   org.h2.Driver
+
 Driver
+
 [Enter]   sa
+
 User     sa
+
 Password  
+
 Type the same password again to confirm database creation.
+
 Password 
+
 Connected
 
 And run the following to create database. The Script is also in project folder /TowerOfHanoi
